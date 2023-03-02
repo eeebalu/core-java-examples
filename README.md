@@ -133,7 +133,7 @@ new A(); //Ananimous object there is no reference so we can't reuse them.
 * It is a class from java.util package
 * This has method to sort the array and several other methods
 
-# Steams
+# Streams
 * It is always advisable to use Immutable values. 
 * Mutable objects - objects that can be changed
 * Immutable objects - objects once created can not be changed.
